@@ -1,7 +1,7 @@
 # D7047E Project: Pneumonia detection with CNN
-This is our project work for the course D7047E Advance Deep Learning at Luleå University of Technology (LP4 2021).
+This is our project work for the course D7047E Advance Deep Learning at LuleÃ¥ University of Technology (LP4 2021).
 
-Here is our project report: 
+Here is our project [report](https://github.com/MansOsk/D7047E_collection/blob/master/Project/D7047E_Project_report.pdf).
 
 ## Prerequisite
 We recommend to run the notebooks in Google Colab.<br>
